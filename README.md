@@ -30,4 +30,8 @@ May be updated, hope so. 😁
 - Nhập: git clone https://github.com/Avcuongy/Inventory-Management.git.
 
 - File được clone sẽ ở thư mục mà terminal hoặc git đang thực thi.
+
+- Tạo branch mới để edit.
+
+- Tạo pull request.
 ```
